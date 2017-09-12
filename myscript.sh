@@ -19,7 +19,8 @@ clear
  echo "welcome devops"
  
 sleep 5 "Shell Practice" 
-
+   VAR=DELL BHOOMI
+   NAME=google
 "ended"!# /bin/bash
 ###########################
 
