@@ -1,2 +1,0 @@
-echo "hai devops"
-
