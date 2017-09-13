@@ -1,0 +1,4 @@
+echo "welcome"
+
+:wq
+
